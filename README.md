@@ -5,7 +5,10 @@ If you're looking for fast, reliable and scalable VPS hosting or a windows based
 
 Let's dive into that.
 
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/kamatera-sign-up"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
+
 ## What is Kamatera?
+![What is Kamatera](https://github.com/user-attachments/assets/001ea43f-5dd2-484b-b856-fb0ad1b5981c)
 Kamatera is a high performance cloud hosting provider designed for developers, enterprises and businesses that need scalable, reliable and customizable cloud infrastructure. Kamatera offers a wide range of cloud computing solutions such as cloud servers, cloud block storage, load balancers and more.
 
 They provide a comprehensive web hosting solution that is scalable, reliable and secure. They are a global cloud service provider with over 15yrs of experience in web hosting and server solutions.
@@ -82,6 +85,8 @@ There is no free plan for using Kamatera's services. But a standout feature is t
 * **Pay As You Go**: Unlike fixed hosting plans, Kamatera operates on a pay as you go pricing model meaning that you only pay for what you use making it ideal for start up developers and businesses scaling up or down. 
 
 + **24/7 Uptime**: Their cloud servers are run on enterprise grade hardware with Intel Xeon Platinum processors and SSD storage providing 99% uptime and excellent speed.
+  
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/kamatera-sign-up"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 - **Remote Desktop Access**: Ideal for running windows based applications remotely. This is perfect for businesses running windows based software. Developers who need windows testing environments or even Forex traders who rely on windows VPS for 24/7 trading bots.
 
@@ -99,7 +104,7 @@ There is no free plan for using Kamatera's services. But a standout feature is t
 ## Is Kamatera Legit?
 Kamatera is an excellent choice for users who need a high performance cloud with full scalability and customisation. It's perfect for individuals, developers, agencies, startups and enterprises but not ideal for those looking for simple budget friendly shared hosting. If you need powerful cloud hosting with enterprise level performance, Kamatera is worth considering.
 
-[Click Here to Try Out Kamatera Free for 30 Days](https://rebrand.ly/kamatera-sign-up)
+<span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/kamatera-sign-up"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 ## Kamatera Customer Reviews:
 Here are a few customer reviews from Kamatera users:
