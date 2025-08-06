@@ -1,5 +1,4 @@
-# Kamatera-review
-## Kamatera Review: VPS Cloud Hosting Redefined
+# Kamatera Review: VPS Cloud Hosting Redefined
 
 If you're looking for fast, reliable and scalable VPS hosting or a windows based virtual server then Kamatera is a name you may have come across but how does it actually perform?
 
